@@ -49,10 +49,7 @@ py -3.12 -m pip install --upgrade pip
 
 ### 2. Clone and install dependencies
 
-```powershell
-git clone https://github.com/<you>/isideload
-cd isideload
-py -3.12 -m pip install -r requirements.txt
+```powershel
 ```
 
 `requirements.txt` includes `PyQt6`, `PyQt6-WebEngine`, `pymobiledevice3`, `qrcode[pil]`.
