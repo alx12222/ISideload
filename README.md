@@ -20,12 +20,6 @@ iSideload is a Windows GUI tool that re-signs `.ipa` files with your own certifi
 
 ---
 
-## Screenshots
-
-*(drop screenshots here — main window, cert browser, DNS profile dialog, install log)*
-
----
-
 ## How it works
 
 iSideload is a thin Windows GUI (PyQt6) wrapping two things that already work:
